@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AppReact.git/static/css/main.fa752976.chunk.css",
-    "main.js": "/AppReact.git/static/js/main.13e008f5.chunk.js",
-    "main.js.map": "/AppReact.git/static/js/main.13e008f5.chunk.js.map",
-    "runtime-main.js": "/AppReact.git/static/js/runtime-main.d05b6f91.js",
-    "runtime-main.js.map": "/AppReact.git/static/js/runtime-main.d05b6f91.js.map",
-    "static/js/2.b596c6a3.chunk.js": "/AppReact.git/static/js/2.b596c6a3.chunk.js",
-    "static/js/2.b596c6a3.chunk.js.map": "/AppReact.git/static/js/2.b596c6a3.chunk.js.map",
-    "static/js/3.db7cdedf.chunk.js": "/AppReact.git/static/js/3.db7cdedf.chunk.js",
-    "static/js/3.db7cdedf.chunk.js.map": "/AppReact.git/static/js/3.db7cdedf.chunk.js.map",
-    "index.html": "/AppReact.git/index.html",
-    "static/css/main.fa752976.chunk.css.map": "/AppReact.git/static/css/main.fa752976.chunk.css.map",
-    "static/js/2.b596c6a3.chunk.js.LICENSE.txt": "/AppReact.git/static/js/2.b596c6a3.chunk.js.LICENSE.txt"
+    "main.css": "/BernardoSG/AppReact.git/static/css/main.fa752976.chunk.css",
+    "main.js": "/BernardoSG/AppReact.git/static/js/main.13e008f5.chunk.js",
+    "main.js.map": "/BernardoSG/AppReact.git/static/js/main.13e008f5.chunk.js.map",
+    "runtime-main.js": "/BernardoSG/AppReact.git/static/js/runtime-main.a421081c.js",
+    "runtime-main.js.map": "/BernardoSG/AppReact.git/static/js/runtime-main.a421081c.js.map",
+    "static/js/2.b596c6a3.chunk.js": "/BernardoSG/AppReact.git/static/js/2.b596c6a3.chunk.js",
+    "static/js/2.b596c6a3.chunk.js.map": "/BernardoSG/AppReact.git/static/js/2.b596c6a3.chunk.js.map",
+    "static/js/3.db7cdedf.chunk.js": "/BernardoSG/AppReact.git/static/js/3.db7cdedf.chunk.js",
+    "static/js/3.db7cdedf.chunk.js.map": "/BernardoSG/AppReact.git/static/js/3.db7cdedf.chunk.js.map",
+    "index.html": "/BernardoSG/AppReact.git/index.html",
+    "static/css/main.fa752976.chunk.css.map": "/BernardoSG/AppReact.git/static/css/main.fa752976.chunk.css.map",
+    "static/js/2.b596c6a3.chunk.js.LICENSE.txt": "/BernardoSG/AppReact.git/static/js/2.b596c6a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d05b6f91.js",
+    "static/js/runtime-main.a421081c.js",
     "static/js/2.b596c6a3.chunk.js",
     "static/css/main.fa752976.chunk.css",
     "static/js/main.13e008f5.chunk.js"
