@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,YACE,gBAAiB,CACjB,gBAEF","file":"main.fa752976.chunk.css","sourcesContent":[".row-imagen{\r\n  max-height: 300px;\r\n  min-height: 300px;\r\n\r\n}"]}
